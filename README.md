@@ -81,6 +81,9 @@ Compare the original modulating signal with the demodulated signal.
 * Execute the code.
 * If any Error, correct it in code and execute again.
 * Verify the generated waveform using Tabulation and Model Waveform.
+# PROGRAM
+<img width="1080" height="1588" alt="image" src="https://github.com/user-attachments/assets/545d3df8-6f59-4784-a7b6-e81db45695d8" />
+
 
 # TABULATION
 <img width="908" height="1600" alt="image" src="https://github.com/user-attachments/assets/41f66cb8-4d50-4e17-b491-6cf3d594a2e4" />
