@@ -83,8 +83,8 @@ Compare the original modulating signal with the demodulated signal.
 * Verify the generated waveform using Tabulation and Model Waveform.
 
 # TABULATION
+<img width="908" height="1600" alt="image" src="https://github.com/user-attachments/assets/41f66cb8-4d50-4e17-b491-6cf3d594a2e4" />
 
-<img width="908" height="1600" alt="image" src="https://github.com/user-attachments/assets/62057010-62a2-4897-bc40-c9fcfc28155c" />
 
 
 # CALCULATION
